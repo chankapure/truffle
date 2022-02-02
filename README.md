@@ -30,8 +30,9 @@ Use below command to migrate ROPSTEN
 2. Save in **".secret"** file.
 
 **VERIFY TRANSACTION**
-First migrate the application and verify the transaction.
-We can verify the transaction from https://ropsten.etherscan.io/ using address.
+
+1. First migrate the application and verify the transaction.
+2. We can verify the transaction from https://ropsten.etherscan.io/ using address.
 
 
 
