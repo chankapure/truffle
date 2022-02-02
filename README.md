@@ -7,7 +7,7 @@
 3. Infura for Ropsten credentials - Mainnet
 4. Ganache
 5. Meta Mask
-6. NodeJS
+6. NodeJS & React
 
 **INSTALLATION**
 
@@ -33,6 +33,14 @@ Use below command to migrate ROPSTEN
 
 1. First migrate the application and verify the transaction.
 2. We can verify the transaction from https://ropsten.etherscan.io/ using address.
+
+**TRUFFLE FRONTEND USING REACTJS**
+
+Create new folder and run the below command
+> truffle unbox react
+
+it create few folders and files with separate **"truffle-conig.js"** file.
+
 
 
 
