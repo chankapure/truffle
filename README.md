@@ -18,7 +18,7 @@ https://trufflesuite.com/docs/truffle/
 > truffle compile
 > truffle migrate --reset
 
-**truffle-config.js**
+**truffle-config.js [in root folder, not in frontend folder]**
 
 1. UnComment **ropsten** object 
 2. Add ropsten URL [https://infura.io/dashboard/]
