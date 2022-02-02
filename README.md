@@ -49,6 +49,10 @@ it creates few folders and files with separate **"truffle-conig.js"** file. (Cli
 Go to the client folder and run below command
 > npm start
 
+Access web app from http://localhost:3000
+
+https://i.ibb.co/HG1cWKn/Screenshot-4.jpg
+
 **ADD GANACHE ACCOUNT TO METAMASK PLUGIN**
 
 1. Click MetaMask extension in chrome browser.
