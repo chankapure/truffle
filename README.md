@@ -39,8 +39,23 @@ Use below command to migrate ROPSTEN
 Create new folder and run the below command
 > truffle unbox react
 
-it create few folders and files with separate **"truffle-conig.js"** file.
+it creates few folders and files with separate **"truffle-conig.js"** file. (Client, Migrations, Test, Truffle-Config.js)
 
+**START REACT APP**
+
+Go to the client folder and run below command
+> npm start
+
+**ADD GANACHE ACCOUNT TO METAMASK PLUGIN**
+
+1. Click MetaMask extension in chrome browser.
+2. Click import account
+3. Now go to **GANACHE** app and select **Private Key** of any account.
+4. Paste the copied key in the metamask extension.
+5. Check **Account List** in metamask, Click on **connect**
+6. Refresh the React App - http://localhost:3000
+7. MetaMask extension will ask for transaction confirmation.
+8. After confirmation, Success Toast Message will be shown in browser.
 
 
 
